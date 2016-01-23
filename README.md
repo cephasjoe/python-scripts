@@ -1,2 +1,2 @@
 # python-scripts
-Just repository for my practise scripts
+Just a repository for my practise scripts
