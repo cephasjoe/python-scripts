@@ -1,3 +1,9 @@
+''' This script was written as part of an integration script where the requirement was to clean a csv file with bad
+characters and convert it into json before passing it onto Mulesoft. """
+
+
+
+
 #!/usr/bin/env python
 import re
 import json
